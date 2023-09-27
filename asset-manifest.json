@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gh-repo-finder/static/css/main.c8938413.css",
+    "main.js": "/gh-repo-finder/static/js/main.d899674e.js",
+    "index.html": "/gh-repo-finder/index.html",
+    "main.c8938413.css.map": "/gh-repo-finder/static/css/main.c8938413.css.map",
+    "main.d899674e.js.map": "/gh-repo-finder/static/js/main.d899674e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8938413.css",
+    "static/js/main.d899674e.js"
+  ]
+}
